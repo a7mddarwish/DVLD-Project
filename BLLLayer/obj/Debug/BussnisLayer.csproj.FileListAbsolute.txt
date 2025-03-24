@@ -1,0 +1,9 @@
+D:\Programming\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+D:\Programming\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+D:\Programming\ClassLibrary4\bin\Debug\AccessDataLayer.dll
+D:\Programming\ClassLibrary4\bin\Debug\AccessDataLayer.pdb
+D:\Programming\ClassLibrary4\obj\Debug\BussnisLayer.csproj.AssemblyReference.cache
+D:\Programming\ClassLibrary4\obj\Debug\BussnisLayer.csproj.CoreCompileInputs.cache
+D:\Programming\ClassLibrary4\obj\Debug\BussnisLayer.csproj.CopyComplete
+D:\Programming\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+D:\Programming\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
