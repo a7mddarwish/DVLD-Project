@@ -5,6 +5,12 @@ Overview
 
 The DVLD (Drivers and Vehicles License Department) Management System is a comprehensive solution designed to manage various aspects of driving license administration. The system handles the issuance, renewal, and replacement of driving licenses, including international licenses. It ensures regulatory compliance while providing services to maintain road safety and driver competence.
 
+## Technologies Used
+- **Architecture:** 3-tier architecture
+- **Framework:** .NET Framework (C#)
+- **Database:** Microsoft SQL Server with ADO.NET
+- **User Interface:** Windows Forms (WinForms)
+
 ## Key Services
 
 -   **New Driving License:** Apply for a new driving license with a fee of $5. Choose from various license categories.
@@ -63,10 +69,5 @@ The system offers robust management features to ensure smooth operations:
     -   **Theory Test**
     -   **Practical Driving Test**
 
-## Technologies Used
-- **Architecture:** 3-tier architecture
-- **Framework:** .NET Framework (C#)
-- **Database:** Microsoft SQL Server with ADO.NET
-- **User Interface:** Windows Forms (WinForms)
 
 For any questions or feedback, please contact me at `A7mddarwish7Dev@gmail.com`.
